@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A legal examination of abuses of law concerning forcible entry, imprisonment without warrant, riots, routs and unlawful assemblies, the publick peace, and breach of it, oppression and duress by goals &amp; goalers, &amp;c. : clearly evincing the abuse and illegality done in the prosecution against the people called Quakers in the city of Bristol, both by statute &amp; common-law, reason and approved authorities.</title>
+         </titleStmt>
+         <extent>Approx. 68KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50004</idno><idno type="EEBO-CITATION">12209872</idno>
+  <idno type="VID">56241</idno>
+  <idno type="EEBO-PROQUEST">2240935572</idno>
+  
+            <idno type="STC">Wing L943</idno>
+            <idno type="STC">ESTC R15910</idno>
+            <idno type="OCLC">12209872</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A50004)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56241)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 765:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A legal examination of abuses of law concerning forcible entry, imprisonment without warrant, riots, routs and unlawful assemblies, the publick peace, and breach of it, oppression and duress by goals &amp; goalers, &amp;c. : clearly evincing the abuse and illegality done in the prosecution against the people called Quakers in the city of Bristol, both by statute &amp; common-law, reason and approved authorities.</title>
+               </titleStmt>
+               <extent>[4], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by Andrew Sowle ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes bibliographical references.</note>
+                  <note>Advertisement: prelim. p. [4] and p. 32.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  England --  Bristol.</term>
+               <term type="topical_term">Law --  England.</term>
+               <term type="topical_term">Freedom of religion --  England.</term>
+               <term type="topical_term">Riots --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:56241:1"/>
+            <p>A <hi>Legal Examination</hi> OF ABUSES OF LAW Concerning
+<list>
+                  <item>
+                     <hi>Forcible Entry,</hi>
+                  </item>
+                  <item>
+                     <hi>Imprisonment without Warrant.</hi>
+                  </item>
+                  <item>
+                     <hi>Riots, Routs and Ʋnlawful Assemblies.</hi>
+                  </item>
+                  <item>
+                     <hi>The publick Peace, and Breach of it.</hi>
+                  </item>
+                  <item>
+                     <hi>Oppression and Duress by Goals &amp; Goalers,</hi> &amp;c.</item>
+               </list>
+            </p>
+            <p>Clearly evincing the Abuse and Illegality done in the prosecution against the People called <hi>Quakers</hi> in the City of <hi>BRISTOL.</hi>
+            </p>
+            <p>Both by <hi>Statute</hi> &amp; <hi>Common-Law, Reason</hi> and <hi>Approved Authorities.</hi>
+            </p>
+            <q>Vis Legibus est Inimica. <bibl>
+                  <hi>Cook.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed and Sold by <hi>Andrew Sowle,</hi> at the Crooked-Billet in <hi>Holloway-Lane</hi> in <hi>Shoreditch,</hi> and at his Shop without <hi>Bishops-Gate,</hi> 1682</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:56241:2"/>
+            <pb facs="tcp:56241:2"/>
+            <head>A TABLE OF THE Ensuing Treatise.</head>
+            <list>
+               <item>
+                  <hi>§. I.</hi> OF the Riotous and Forcible Entry, and Exces<g ref="char:EOLhyphen"/>sive Spoil made upon the People call'd <hi>Quakers</hi> in <hi>Bristol,</hi> and how unwarrantable and expresly contrary to Law, <hi>page 1, 2, 3, 4, 5.</hi>
+               </item>
+               <item>
+                  <hi>§. II.</hi> Of their first Imprisonments without Warrant or Mittimus, and how unwarrantable and contrary to Law and Justice, they being neither Riotously met, nor in Disturbance of the publick Peace, <hi>p. 5, 6, 7, 8, 9, 10, 11.</hi>
+               </item>
+               <item>
+                  <hi>§. III. Riot, Rout</hi> and <hi>Unlawful Assembly</hi> explain<g ref="char:EOLhyphen"/>ed by chief Justice <hi>Cook, Thomas Blunt, &amp;c.</hi> Also, <hi>[Sedition]</hi> what it is: And the peaceable Religious Meetings of the People called <hi>Quakers</hi> vindicated there<g ref="char:EOLhyphen"/>from, <hi>p. 11, 12, 13, 14, 15.</hi>
+               </item>
+               <item>
+                  <hi>§. IV. The publick Peace,</hi> and the <hi>Breach of it</hi> ex<g ref="char:EOLhyphen"/>plained, discovering that the said peaceable Meetings are not justly chargeable therewith, but they who furiously disturb, assault and abuse them, <hi>p. 15, to p. 21.</hi>
+               </item>
+               <pb facs="tcp:56241:3"/>
+               <item>
+                  <hi>§. V.</hi> How Arbitrary and Illegal the late proceedings at <hi>Bristol</hi> are, in forcing peaceable Neighbours to Prison, and Nailing up Eighty seven Women and Fourteen Men together in their Meeting-House, close Prisoners for some Hours, <hi>p. 21, to p. 26.</hi>
+               </item>
+               <item>
+                  <hi>§. VI.</hi> Of the great <hi>Oppression, Duress</hi> and <hi>Destructive Hardships,</hi> by crowding great Numbers together in Goal: How contrary to Law; and the dangerous Consequence thereof to Goalers, Sheriffs, <hi>&amp;c.</hi> concern<g ref="char:EOLhyphen"/>ed; And what priviledge the Law allows to Prisoners, <hi>p. 26, 27, &amp;c.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="authors_note">
+            <head>ADVERTISEMENT.</head>
+            <p>
+               <hi>Note,</hi> THat every <hi>Riot</hi> is a <hi>Breach of the Peace,</hi> but every <hi>Breach of the Peace</hi> is not strictly a <hi>Riot,</hi> because one or two Persons by an Assault, Affray or act of Violence or Injury to another do break the <hi>Peace,</hi> but Three to a <hi>Riot.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:56241:3"/>
+            <head>A Legal Examination OF <hi>Abuses of Law.</hi>
+            </head>
+            <div n="1" type="section">
+               <argument>
+                  <p n="1">
+                     <hi>§. 1.</hi>
+                     <note place="margin">
+                        <hi>Bristol.</hi> The Case.</note> THat the Officers and rude Company have Rio<g ref="char:EOLhyphen"/>tously spoiled and made lamentable and cruel Havock in and upon two Houses, which are the Properties and Freeholds of divers Proprietors, un<g ref="char:EOLhyphen"/>covering the Roof of one, and making the other unhabi<g ref="char:EOLhyphen"/>table, because the said People met in part thereof; and after that making forcible Entry, and seizing on the whole Premises, pretendedly for the KING, without any due order or colour of Law; by which means a poor Widdow, after great spoil and damage done to her, with a second Inhabitant, were both forced to depart and quit their Ha<g ref="char:EOLhyphen"/>bitation; and then, the Spoilers taking Possession, much of the Spoil aforesaid was committed by the Rude Multi<g ref="char:EOLhyphen"/>tude, with Sledges and other Tools on several <hi>Lord's days,</hi> the one whereof was <hi>Christmass-day</hi> last (so called.)</p>
+               </argument>
+               <p>
+                  <hi>Query,</hi> Whether such Proceedings be warrantable by Law?</p>
+               <p>
+                  <hi>Answer;</hi> No, they appear expresly Riotous and Arbitrary, as all such Irregular and Forcible Entries
+<pb n="2" facs="tcp:56241:4"/> are, as the following Instances and Authorities clearly evince. By the Statute 5 <hi>R.</hi> 2. 7. <q rend="margQuotes">None shall enter into Lands or Tenements by <hi>Force,</hi> on pain of Impri<g ref="char:EOLhyphen"/>sonment, and Ransom at the King's pleasure;</q> see <hi>Wingate</hi>'s <hi>Abridgment,</hi> under the Title <hi>Forcible Entry;</hi>
+                  <q rend="margQuotes">A <hi>Forcible Entry</hi> is a violent and Actual Entry into any Lands, Houses, &amp;c. see <hi>Shepherds grand Abridgment,</hi> Title <hi>Forcible Entry.</hi>
+                  </q>
+               </p>
+               <p>Again, by the Statutes of 5 <hi>R.</hi> 2. c. 7. &amp; 15 <hi>R.</hi> 2. c. 2. &amp; 8 <hi>H.</hi> 6. c. 9. <q rend="margQuotes">It is provided, That none shall enter into any Land, but where Entry is given them by Law; and then in a mild and peace<g ref="char:EOLhyphen"/>able manner: And that none shall enter into or hold Possession of Land with a strong hand, and with Force, </q>
+                  <hi>ibid Shep. Abridg.</hi> Again, under the Titles of <hi>Riot, Rout</hi> and <hi>Vnlawful Assembly,</hi>
+                  <q rend="margQuotes">This is (saith he) where three or more do meet to do an Unlawful Act against the Peace, to beat down a House, Pale, or the like, &amp;c.</q> Moreover, such kind of Spoil and Forcible Entries, as before mentioned, made upon any of the Properties, Te<g ref="char:EOLhyphen"/>nements, Goods or Chattels of any of his Majesties Subjects, or Free-born English People, are not only repugnant to common Law and Justice, and Usage of <hi>England,</hi> but expresly prohibited by <hi>Magna Charta</hi>
+                  <note n="*" place="margin">Cap. 29.</note>, and many penal Statutes in force, and therefore not to be suffered nor connived at by Authority; see the Statute, 28 <hi>Edw.</hi> 3. cap. 3. <q rend="margQuotes">No man of what Estate or Condition that he be, shall be put out of Land or Tenement; nor taken, nor imprisoned, nor dis-inherited, nor put to Death, without being brought in Answer by <hi>Due Process</hi> of Law, agree<g ref="char:EOLhyphen"/>able
+<pb n="3" facs="tcp:56241:4"/> to <hi>Magna Charta,</hi> Stat. 9. <hi>H.</hi> 3. cap. 29.</q> In such Riotous Forcible Entries and Seizures by a Rude Multitude, to make Havock and Spoil of Houses, Tenements or Goods, there's not the least colour of <hi>Due Process, Due Course</hi> or <hi>Due Proceeding</hi> of <hi>Law</hi> in the King's Courts of Justice, but an express Contradiction and Violation of Law and Justice; for <hi>due Process</hi> and <hi>due Course of Law</hi> in Courts of Justice require due Conviction, lawful Judgment of Peers or Equals, and matter of Record, to ground the King's Writ of Seizure upon, before an Entry can be legally made upon any Tenement or Freehold, where it may justly be made. See also the Statute 5 <hi>R.</hi> 2. <hi>cap.</hi> 7. where 'tis expresly declared, <q rend="margQuotes">That the King defendeth, that none from henceforth make any Entry into any Lands and Tenements, but in case where Entry is given by the Law, and in such case, not with strong hand, nor with mul<g ref="char:EOLhyphen"/>titude of People, but only in peaceable and easie manner. And if any man from henceforth do to the contrary, and thereof be duly convict,<note place="margin">The Case.</note> he shall be punished by Imprisonment of his Body, &amp;c. Besides, such Forcible Entries into other mens Lands or Tenements, and putting the Possessors out of the same, and taking away their Goods and Chattels, are said to be in manner of <hi>Robbery</hi>
+                     <note n="*" place="margin">
+                        <hi>Those called</hi> Qua<g ref="char:EOLhyphen"/>kers <hi>at</hi> Bri<g ref="char:EOLhyphen"/>stol <hi>have in the state of their Case complain'd in these words,</hi> viz. <pb n="4" facs="tcp:56241:5"/>
+                        <hi>of</hi> The great Extrotion &amp; Spoil made upon us by their exces<g ref="char:EOLhyphen"/>sive Distres<g ref="char:EOLhyphen"/>ses, carrying away our Merchandize and Houshold Goods, whilst our Persons are closely confined, and like to be destroy'd in Prison: And their breaking open <hi>Doors</hi> and <hi>Closets,</hi> and rifling <hi>Shops, Cellars, Chests,</hi> &amp;c. Tearing an innocent Man's <hi>Coat from off his Back,</hi> and taking above <hi>Ten Pounds of Money out of his Pocket</hi> for Distress; and most shamefully underselling the Goods, that they commonly take double the Fines, and sometimes more: This hath been the Informers course against us. <hi>Such excessive Distress</hi> Horn<hi>'s</hi> Mirror of Justice <hi>doth thus set forth,</hi> viz. <q rend="margQuotes">As if one distrain me so <hi>Outragiously,</hi> that I cannot Manure, Plow or use my Land duly, in which case it maketh one an Outragious Distrainer to disseize, <hi>M<gap reason="illegible" resp="#murp" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>r. Tit. Disseizin &amp; Reddisseizin, cap.</hi> 2. §. 25.</q> Which kind of excessive and outragious Distraining, is expresly prohibited by <hi>Magna Charta,</hi> cap 14. <q rend="margQuotes">A Free-man shall not be amerced for a small fault, but after the manner of the fault; and for a great fault according to the greatness of the fault, <hi>Saving</hi> to him his <hi>Contenement;</hi> and a Merchant likewise, <hi>Saving</hi> to him his <hi>Merchan<g ref="char:EOLhyphen"/>dize.</hi>
+                        </q> And the Reason given by chief Justice <hi>Cook</hi> is, <q rend="margQuotes">For Trade and Traffick is his Livelihood, and the Life of the Common-Wealth, wherein the King and every Subject hath Interest.</q> Whence it fol<g ref="char:EOLhyphen"/>lows, That they who destroy Trade by their excessive Distresses and Spoil on the Subjects Merchandize, Goods, <hi>&amp;c.</hi> do act against the Interest both of King and People.</note>
+                     <pb n="3" facs="tcp:56241:4"/> (as the words of the Statute are) 4 <hi>H.</hi> 4. c. 8. Whereby some have been in such manner put out, and their Goods and Chattels spoiled, that they have nothing wherewithal to pursue for their Right; In such case the Chancellour of England (upon complaint made to him) hath Power to grant a special Assize
+<pb n="4" facs="tcp:56241:5"/> to the Party grieved, of whatsoever value the Te<g ref="char:EOLhyphen"/>nements be, without sueing to the King. And if such Disseisor be attainted of such Dissesin, made in such forcible manner, he shall have one years Imprisonment, and yield to the Party grieved his double Damages, &amp;c. see the Statute more at large, 4. <hi>H.</hi> 4. c. 8.</q>
+               </p>
+               <p>If it should be objected or alledged by those Of<g ref="char:EOLhyphen"/>ficers, and others of <hi>Bristol,</hi> who are charged with such Force, Violence and Spoil against their Neigh<g ref="char:EOLhyphen"/>bours, <hi>That they have Order from his Majesty to put the Laws in Execution against Dissenters,</hi> &amp;c. (as some of them would excuse themselves)
+<pb n="5" facs="tcp:56241:5"/> What follows? <hi>Ergo</hi> they may be Tumultuous, com<g ref="char:EOLhyphen"/>mit Riots and forcible Entries upon their Houses and Tenements, and withal, make Havock and Spoil upon their Goods and Chattels, and crowd their Persons up in Noisom Holes, to destroy them at their Wills and Pleasures; force the Widdow out of her Tenement and Dwelling. No such matter; such outragious Proceedings as be against all Law and Ju<g ref="char:EOLhyphen"/>stice, in going about thus Illegally to destroy the King's peaceable Subjects, and Free-born English People, are also against the King, and scandalous to the Government, considering the Maxim, <hi>Voluntas Regis, Voluntas Legis;</hi> 'tis not to be supposed, that he in<g ref="char:EOLhyphen"/>tended to countenance that which is apparently against express Law; witness the Statute, 16 <hi>Car.</hi> 1. c. 10. entituled, <hi>An Act for the regulating of the Privy Coun<g ref="char:EOLhyphen"/>cil, and for taking away the Court commonly called the Star-Chamber,</hi> viz. §. 5. <q rend="margQuotes">Be it likewise declared and enacted by Authority of this present Parliament, That neither his Majesty nor his Privy Council have or ought to have any Jurisdiction, Power or Authority, by English Bill, Petition, Articles, Li<g ref="char:EOLhyphen"/>bels, <hi>or any other Arbitrary way</hi> whatsoever, to examine or draw into question, determine or dis<g ref="char:EOLhyphen"/>pose of the Lands, Tenements, Hereditaments, Goods or Chattels of any of the Subjects of this King<g ref="char:EOLhyphen"/>dom; But, that the same ought to be tryed and deter<g ref="char:EOLhyphen"/>mined in the ordinary Courts of Justice, and by the ordinary course of Law.</q>
+               </p>
+            </div>
+            <div n="2" type="section">
+               <argument>
+                  <p n="2">
+                     <hi>§. I. I.</hi>
+                     <note place="margin">The Case.</note> The manner of our first Imprisonment hath been for the most part, by being (both Men and Women) haled
+<pb n="6" facs="tcp:56241:6"/> and forced directly from our peaceable Meeting, to <hi>Bride<g ref="char:EOLhyphen"/>well</hi> or <hi>Newgate,</hi> at the Arbitrary wills and pleasure of <hi>Iohn Knight,</hi> Sheriff, <hi>Iohn Hilliar,</hi> and other their Assistants, the Rude Company attending them (and for some Hours, sometimes Dayes and Nights detain us in Goal) without any judicial Examination, Warrant or Mittimus from any Justice of Peace; and afterward convening us before one or more Justices for Commitment, and all this under pretext of a <hi>Breach of the publick Peace,</hi> or of a <hi>Riot:</hi> Whereas he that searches our Hearts knows, we had not the least precedent Intent of hurt; much less have we committed any actual Force or Violence to any Person whatsoever, nor the least occasion given on our parts, <hi>in Terrorem.</hi> The Meetings for which we are thus Oppressed being in no other posture than what hath been sober and peaceable.</p>
+               </argument>
+               <p>
+                  <hi>Qu.</hi> Whether such kind of Imprisonment be war<g ref="char:EOLhyphen"/>rantable by <hi>Magna Charta,</hi> the Law of the Land, or common course of Justice, though afterward they be committed by Warrant?</p>
+               <p>
+                  <note place="margin">The Legal Examinati<g ref="char:EOLhyphen"/>on.</note>
+                  <hi>Answ.</hi> No, expresly contrary; see the following Instances and Authorities of the Lord chief Justice <hi>Cook,</hi> M. <hi>Dalton,</hi> and others in the case.</p>
+               <p>
+                  <q rend="margQuotes">The Liberty of a man is a thing especially fa<g ref="char:EOLhyphen"/>voured by the common Law of this Land;<note place="margin">See <hi>Dalton</hi> under the <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>itle <hi>Arrest and Impri<g ref="char:EOLhyphen"/>sonment.</hi>
+                     </note> and therefore if any of the King's Subjects shall Impri<g ref="char:EOLhyphen"/>son another without sufficient Warrant of Him or his Law, the Party grieved may have his Action, and shall recover Damages against the other, and the King also shall have a Fine of him.</q>
+                  <note place="margin">Cook 9. 56.</note>
+               </p>
+               <p>By the Statute of <hi>Magna Charta,</hi> made 9 <hi>H.</hi> 3.
+<pb n="7" facs="tcp:56241:6"/> chap. 29. <q rend="margQuotes">No Free-man shall be taken or imprisoned, &amp;c. but by the lawful judgment of his Equals, &amp;c. by the Verdict of a Jury of good and lawful Men, or by the Law of the Realm.</q>
+               </p>
+               <p>And by this Statute of <hi>Magna Charta,</hi>
+                  <q rend="margQuotes">Every Arrest or Imprisonment, and every Oppression against the Law of the Land is forbidden; and if any Judge, Officer, or other Person, against the Law shall usurp any Jurisdiction, and by colour thereof shall Arrest, Imprison or Oppress any man, it is punishable by the Statute; see <hi>Cook</hi> 10, 74, 75.</q>
+               </p>
+               <p>
+                  <q rend="margQuotes">Also, the Body of a man shall not be Arrested or taken for any Debt, Trespass, or the like, but by process awarded out of some Court of Record; see <hi>P. Accusation</hi> 1. 42. <hi>Ass.</hi> 5. or by Warrant granted by some Judge of Record.</q>
+               </p>
+               <p>
+                  <q rend="margQuotes">Neither shall any man commit another to Prison, except he be a Judge of Record, <hi>Cook</hi> 10, 103.</q>
+               </p>
+               <p>"Justices of Peace be Judges of Record; vide <hi>Dalt.</hi> under the Title <hi>Justices of the Peace.</hi>
+               </p>
+               <p>
+                  <q rend="margQuotes">And yet for Misdemeanours done against the King's Peace, the Offendors may by the common Law be Arrested and Imprisoned by the Officers of Justice, and sometimes by private Persons,<note place="margin">Cook 3. 21. a.</note> as hereunder followeth: Every private man may Arrest another he knoweth to have committed a <hi>Robbery, Manslaughter,</hi> or <hi>other Fellony,</hi>
+                     <note place="margin">10 E. 4. 17.</note> and may deliver him to the Constable of the Town, where such an Offendor is apprehended.</q>
+               </p>
+               <p>
+                  <hi>Observe,</hi> That where Officers of the Peace, or private Persons are impowered to Arrest and Im<g ref="char:EOLhyphen"/>prison Offendors by the common Law, without Writ
+<pb n="8" facs="tcp:56241:7"/> or Warrant under hand and seal of a Justice, it is for some Notorious Fact done against the King's Peace, as a Violation thereof, as by <hi>Robbery, Manslaughter,</hi> or other <hi>Fellony:</hi>
+                  <q rend="margQuotes">The Sheriff, Bailiffs, Constables, and other the Kings Officers may arrest and imprison Offendors in all such cases where a private Person may without Writ or Warrant, <hi>Dalt. ibid. Tit. Arrest, Im<g ref="char:EOLhyphen"/>prisonment.</hi>
+                  </q> Whence it follows, that for either Of<g ref="char:EOLhyphen"/>ficers or private Persons to arrest or imprison any of the King's Subjects without Writ or such lawful War<g ref="char:EOLhyphen"/>rant, where no such Offence or Misdemeanours against the King's Peace can be proved against the party Arrested, nor any thing done that is <hi>Malum in se:</hi> Such Arrest and Imprisonment is an Oppres<g ref="char:EOLhyphen"/>sion against the Law of the Land; 'tis an usurped Jurisdiction, contrary to <hi>Magna Charta,</hi> to the common course of Justice, and Law of the Land, and punishable. And even by the Conventicle Act it self, 22 <hi>Car.</hi> 2. where any Persons are to be taken into Custody (for the Reasons therein mentioned) either by the Sheriff, Constables or Head-Burroughs, <hi>&amp;c.</hi> they are not authorized so to do without <hi>War<g ref="char:EOLhyphen"/>rant</hi> or <hi>Certificate,</hi> under the <hi>Hand</hi> and <hi>Seal</hi> of a <hi>Justice of Peace</hi> or <hi>chief Magistrate,</hi> and that <hi>to the Intent they may be proceeded against according to the same Act;</hi> which intends not their Commitment to Goal for their Religious Exercise, but to fine them upon Conviction, as therein exprest. And to the said pretext of <hi>Breaking the publick Peace, &amp;c.</hi> though it be granted, that the Sheriff may take <hi>Posse Comitatus</hi> to apprehend <hi>Fellons, Rioters, Disturbers</hi> of the <hi>King's Peace,</hi> Persons that make <hi>Forcible Entries</hi> into
+<pb n="9" facs="tcp:56241:7"/> other mens Possessions, &amp;c. These cases do not con<g ref="char:EOLhyphen"/>cern any peaceable Religious Exercise, but are of another nature. As for Instance by the late <hi>Conventicle Act,</hi> 22 <hi>Car.</hi> 2. <hi>Five Persons</hi> besides the Family are prohibited meeting under such colour of Religious Exercise; but <hi>Four</hi> Persons besides the Family are not forbidden, the Family and four Persons more may meet; therefore 'tis not Riotous in Fact, nor a Violation of the King's Peace; for if but <hi>Three</hi> meet in disturbance of the King's Peace, it is a <hi>Riot;</hi> and it cannot rationally be supposed, that the Law-Makers, in permitting <hi>Four</hi> to meet, besides the Fa<g ref="char:EOLhyphen"/>mily, could thereby either intend or permit <hi>Riots,</hi> or the <hi>Breach of the King's Peace.</hi>
+               </p>
+               <p>If it be objected, <hi>That every Offence against the Law of the Land is a Breach of the publick Peace, or a Violation of the King's Peace. But the</hi> Quakers <hi>Mee<g ref="char:EOLhyphen"/>tings are against the Law,</hi> Ergo <hi>they are a Breach of the King's Peace.</hi>
+               </p>
+               <p>We must deny the major or first Proposition of this Argument. There are divers Offences against Law, which are of another species or kind than Riots, or the breach of the publick Peace, otherwise Writs, Processes and Warrants might be served on the Lord's Day in all other cases, wherein persons are Arrestable, besides those of <hi>Treason, Fellony</hi> or <hi>breach of the Peace;</hi> and then, what needed any such exception to be made by Act of Parliament? as in that of 29 <hi>Car.</hi> 2. <hi>For the better Observation of the Lord's day,</hi> where 'tis expresly said; <hi>That no Writ, Process, Warrant, Order, Judgment or Decree shall be served on that day, Except in cases of Treason, Fellony or breach of the Peace:</hi> Where<g ref="char:EOLhyphen"/>by
+<pb n="10" facs="tcp:56241:8"/>
+'tis plainly implyed, That there are cases wherein Writs, Processes, Warrants, <hi>&amp;c.</hi> are to be served on other days, but not on the <hi>Lords-day,</hi> which are not the Cases of Treason, Fellony or breach of the Peace; and therefore that those particular Cases and Crimes of Treason, Fellony, and Breach of the Peace, do not include all Offences against Law. For any to expound or extend the words of the said Act thus, viz. <hi>That no Warrant shall be served or executed on the</hi> Lord's-day, <hi>except in such cases where some Offence is done against Law;</hi> this were to suppose they might on other dayes serve and execute Writs, Processes, Warrants, &amp;c. (and so daily trouble their Neigh<g ref="char:EOLhyphen"/>bours) for no Offence against Law; which were an absurd Inferrence, the said Act expresly prohibi<g ref="char:EOLhyphen"/>ting the serving or executing Process, Warrant, Order, Judgment or Decree on the Lords-day, for all Matters or Offences, except in cases of Treason, Fel<g ref="char:EOLhyphen"/>lony or Breach of the Peace.</p>
+               <p>Now in the case of <hi>Breach of the Peace,</hi> there must be a real and actual Breach or Violation of the pub<g ref="char:EOLhyphen"/>lick Peace, as well as of Treason or Fellony, other<g ref="char:EOLhyphen"/>wise the Arrest is against the Statute before quoted, <q rend="margQuotes">as where there are <hi>Riots, Routs</hi> or <hi>Ʋnlawful Assem<g ref="char:EOLhyphen"/>blies</hi> against the Peace, the Justices of Peace, or two of them at least, together with the the Sheriff or under-Sheriff, may by the Power of the County suppress them, Arrest the Offendors, and record <hi>That <hi>which they have found so done against the Law,</hi>
+                     </hi> and that by the Record of the same Justices, &amp;c. such Trespassors or Offendors should be convicted in manner and form as is contained in the
+<pb n="11" facs="tcp:56241:8"/> Statute of <hi>Forcible Entry,</hi> 5 <hi>R.</hi> 2. c. 7. &amp; 15 <hi>R.</hi> 2. c. 2. &amp; 13 <hi>H.</hi> 7. 4. 7.</q>
+               </p>
+               <p>
+                  <hi>Note,</hi> There must be matter of Fact found done, that is of a Riotous Nature, in disturbance of the pub<g ref="char:EOLhyphen"/>lick Peace, and so to be recorded; otherwise, if a Justice, Sheriff, or other Officers, should see a com<g ref="char:EOLhyphen"/>pany of persons met peaceably together, and neither saying nor doing the least Evil, perhaps doing no<g ref="char:EOLhyphen"/>thing, but sitting or standing together in silence; What Record or Conviction can they make hereof? What did they see done? If they record nothing but Truth, it must be, <hi>That they heard them not say, nor saw them do any thing;</hi> and therefore no Violence, Force or Injury to any person: Where is then the <hi>Riot</hi> or <hi>Breach</hi> of the <hi>publick Peace?</hi> Seeing that Assemblies <q rend="margQuotes">for <hi>divers Disports</hi> are excused in Law, as being usually not with any intent to offer or do Violence or Hurt to the Person, Possessions or Goods of any other; neither are they (saith <hi>Dalton) Malum in se;</hi> they are (saith he) in themselves neither Evil nor Unlawful; <hi>Dalt.</hi> Tit. <hi>Riots.</hi>
+                  </q>
+               </p>
+               <p>
+                  <hi>Query;</hi> How then can the Prosecutors prove a <hi>Malum in se</hi> in peaceable Religious Meetings? To be sure, if nothing be said or done in them that is <hi>Malum in se,</hi> or Evil in it self, then no breach of the publick Peace, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div n="3" type="section">
+               <argument>
+                  <p n="3">
+                     <hi>§. III. <hi>Riotum</hi> cometh of the</hi> French <hi>word</hi> Rioter,<note place="margin">Cook <hi>par. 3. Institu. cap. 79. of</hi> Riots, Routs, unlaw<g ref="char:EOLunhyphen"/>ful Assem<g ref="char:EOLhyphen"/>blies, Forces, &amp;c.</note>
+                     <hi>i. e.</hi> Rixari, <hi>and in the Law signifieth,</hi> When three or more do any unlawful Act, <hi>as to beat any man,</hi> or hunt in his Park, Chase or Warren, or to enter or take Possession of another mans Land, or to cut or destroy his Corn or Grass, or other Profit, &amp;c.</p>
+               </argument>
+               <pb n="12" facs="tcp:56241:9"/>
+               <p>
+                  <note place="margin">
+                     <p>
+                        <gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>atinè Tur<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>— Comes <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> discordia <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ulgi.</p>
+                     <p>Namque a Turbando no<g ref="char:EOLhyphen"/>men sibi tur<g ref="char:EOLhyphen"/>ba Recepit.</p>
+                     <p>Lamb <hi>inst. Leg. Ina, c. 12, 13, 14. vide</hi> Alve<g ref="char:EOLhyphen"/>red, <hi>c. 26.</hi>
+                     </p>
+                  </note>
+                  <hi>Routa</hi> is derived of the <hi>French</hi> word <hi>Rout,</hi> and properly in Law signifieth, <hi>When three, or more, do any unlawful Act, for their own or the common Quarrel, &amp;c.</hi> as when <hi>Commoners break down Hedges or Pales, or cast down Ditches, or Inhabitants for a Way claim'd by them,</hi> or the like.</p>
+               <p>An <hi>Vnlawful Assembly</hi> is when three or more as<g ref="char:EOLhyphen"/>semble themselves together to commit a <hi>Riot</hi> or <hi>Rout,</hi> and do it not. <hi>Praedones autem nominamus usque ad Numerum septem virorum deinde (quousque Numerus</hi> 35 <hi>Coaluerit) Turmam (Saxonice</hi> Hloth) <hi>dicimus Numerus si excreverit exercitum vocamus: Praedones, &amp;c.</hi> Now we name them <hi>Robbers,</hi>
+                  <note place="margin">
+                     <hi>Turma quasi terdena Nu<g ref="char:EOLhyphen"/>merus,</hi> i. e. the number of Ten.</note> to the Number of seven Men; then (until the Number of thirty five joyn together) we call it a <hi>Troop</hi> (in <hi>Saxon Hloth:</hi>) If the Number encrease, we call it an <hi>Army, Hloth bota,</hi> to be quit of Unlawful Assemblies.</p>
+               <p>One may commit a Force; but of this, that I may not unprofitably repeat, you may read at large <hi>Fitz-Herbert,</hi> and those others that have written of this Argument.</p>
+               <p>
+                  <hi>Interest Regi habere subditos pacatos, vis Legibus est Inimica;</hi> It is the Kings Interest to have his Subjects pacified; Violence is an Enemy to the Laws; see <hi>lib.</hi> 5. <hi>fol.</hi> 91, &amp; 115. <hi>lib.</hi> 11. <hi>fol.</hi> 82. see the first part of the <hi>Institutes, Sect.</hi> 431, 440. <hi>Cust. de Norm. cap.</hi> 52. <hi>fol.</hi> 66, 67.</p>
+               <p>
+                  <note place="margin">Tho. Blunt<hi>'s</hi> Nomo Lexi<g ref="char:EOLhyphen"/>kon, <hi>or</hi> Law Dictionary.</note>
+                  <hi>Riot</hi> (Fr. <hi>Riotte quod non solum Rixam,</hi> or <hi>Jurgium significat sed vinculum etiam quo plura in unum fasciculo<g ref="char:EOLhyphen"/>rum instar Colligantur; (Riot</hi> or <hi>Rout,</hi> which signifies not only <hi>Brawling</hi> or <hi>Chiding,</hi> but a <hi>Knot</hi> also, or <hi>Tye,</hi> whereby more are gathered into <hi>One,</hi> after the man<g ref="char:EOLhyphen"/>ner
+<pb n="13" facs="tcp:56241:9"/> of Bundles.) <hi>Riot</hi> signifies, <hi>The forcible doing an unlawful Act, by Three or more Persons assembled to<g ref="char:EOLhyphen"/>gether for that purpose,</hi> West. part 2. Symb. Tit. <hi>In<g ref="char:EOLhyphen"/>dictments,</hi> Sect. 65. The differences and agreements between a <hi>Riot, Rout</hi> and <hi>Ʋnlawful Assembly,</hi> see in <hi>Lambert Eiren,</hi> lib. 2. cap. 5. Stat. the 1st of <hi>Mary,</hi> cap. 12. and <hi>Kitchin</hi> fol. 19. who gives these Ex<g ref="char:EOLhyphen"/>amples of <hi>Riots:</hi> The breach of Enclosures, Banks, Cundits, Parks, Pounds, Houses, Barnes, the burn<g ref="char:EOLhyphen"/>ing of stacks of Corn, <hi>&amp;c. Lamb. ubi supra.</hi> mentions these, To beat a Man, to enter upon a Possession forcibly; see <hi>Rout</hi> and <hi>Ʋnlawful Assembly;</hi> see also in <hi>Compl. Justice of Peace,</hi> divers cases of <hi>Riots, Anno</hi> 17 <hi>Ric.</hi> 2. cap. 8. and 13 <hi>Hen.</hi> 4. cap. 7.</p>
+               <p>
+                  <hi>Rout, <hi>Fr.</hi> R<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ut<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> i. e. <hi>A Company or Number,</hi> which signifies, An Assembly of three persons going forcibly to commit an unlawful Act, though they do it not; and this is the same which the <hi>Germans</hi> yet call <hi>Rot,</hi> meaning, A Band or great Company of men ga<g ref="char:EOLhyphen"/>thered together, and going to execute, or are execu<g ref="char:EOLhyphen"/>ting indeed any <hi>Riot</hi> or <hi>Ʋnlawful Act;</hi> see the Statute 18 <hi>Edw.</hi> 3. Stat. 1. &amp; <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> R. <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. cap. 6. It is a <hi>Rout</hi> whether they put their purpose in execution or no, if they go, ride or move forward after their Meeting; <hi>Brooke</hi> Tit. <hi>Riot</hi> 4, 5. So as a <hi>Rout</hi> seems to be a special kind of unlawful Assembly; and a <hi>Riot,</hi> the disorderly fact committed generally by unlawful As<g ref="char:EOLhyphen"/>sembly. Howbeit, two things are common bo<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h to <hi>Rout, Riot</hi> and <hi>Ʋnlawful Assembly;</hi> the one, <hi>That three Persons at least be gathered together;</hi> the other; <hi>That they being together, do disturb the Peace, either by Words, shew of Arms, Turbulent Gesture or Actual Violence, &amp;c.</hi> see <hi>Lamb. Eiren, lib.</hi> 2. <hi>cap.</hi> 5.</p>
+               <pb n="14" facs="tcp:56241:10"/>
+               <p>
+                  <hi>Ʋnlawful Assembly <hi>(Illicita Congregatio)</hi>
+                  </hi>
+                  <q rend="margQuotes">Is the meeting of <hi>Three,</hi> or more persons together, with force, to commit some unlawful Act, and abiding together, though not endeavouring the execution of it, as to assault or beat any person, to enter into his House or Land, &amp;c. <hi>West. part</hi> 2. <hi>Symbol.</hi> Tit. <hi>Indict<g ref="char:EOLhyphen"/>ments, Sect.</hi> 65. <hi>Lamb.</hi> in his <hi>Eiren, lib.</hi> 1. <hi>cap.</hi> 19.</q>
+               </p>
+               <p>By the Statute 16 <hi>Car.</hi> 2. <hi>cap.</hi> 4. &amp; 22 <hi>ejusdem cap.</hi> 1.<q rend="margQuotes"> If five persons or more, shall be assembled together, above those of the Family, at any Conventicle or Meeting, under colour of any <hi>Exercise of Religion,</hi> it is unlawful and punishable by <hi>Fines,</hi> and other<g ref="char:EOLhyphen"/>wise, as in the said Statute is expressed.</q>
+               </p>
+               <p>
+                  <hi>Observe;</hi> But this colour of Religious Exercise is no Riot or breach of the publick Peace (much less being quietly met in silence) nor of that nature or kind; for then four persons above those of the Family would not be suffered to meet, as they are allowed by both these Statutes quoted (the first whereof, <hi>i. e.</hi> 16 <hi>Car.</hi> 2. is expired) seeing that but three or more persons met together with force to commit some un<g ref="char:EOLhyphen"/>lawful Act, &amp;c. is <hi>Illicita Congregatio,</hi> or such unlaw<g ref="char:EOLhyphen"/>ful Assembly as tends to a <hi>Riot</hi> or <hi>Breach of the publick Peace,</hi> where 'tis attended with such previous Inten<g ref="char:EOLhyphen"/>tion, with force to commit an unlawful Act, as to <hi>assault, beat,</hi> or <hi>make forcible Entry into other's Posses<g ref="char:EOLhyphen"/>sions, &amp;c.</hi> the most eminent Commentators on the Law do all concur in this point, which occasions those Reiterations on the several Authors; and be sure, there could be no precedent intent (in the Meeters) of the Sheriffs or Constables proclamation to depart.</p>
+               <p>There is no more Consistency between punishing
+<pb n="15" facs="tcp:56241:10"/> peaceable Meetings, both for a <hi>Riot</hi> and for a <hi>Religious Exercise,</hi> than it can be truth to say, they were <hi>Fight<g ref="char:EOLhyphen"/>ing,</hi> or in a <hi>hot Fray,</hi> whilst on their <hi>Knees in Prayer to God,</hi> or <hi>quietly meditating in silence in his Law in their Hearts.</hi>
+               </p>
+               <p>And if such Meetings be charged with <hi>Sedition,</hi> or as being a <hi>Seditious Conventicle,</hi> and therefore Proclamation might be made to disperse it. That's as Improbable (or as far from proof) as a quiet silent Meeting is from a Violation of the King's Peace, where no overt Act of Religious Exercise (or pre<g ref="char:EOLhyphen"/>tence thereof) is to prove it so much as a Conventicle. For, <hi>First,</hi> What are <hi>Seditious Conventicles,</hi> but such wherein Strife and Rebellion against the Govern<g ref="char:EOLhyphen"/>ment is sown, tending to Insurrection, <hi>&amp;c? Secondly,</hi> What is <hi>Sedition,</hi> but a stirring up Subjects to Re<g ref="char:EOLhyphen"/>bellion and Discord, a Raising Faction or Mutiny against the Government? (as <hi>Phillips</hi> in his <hi>New World of Words,</hi> and others, explain it) which, to be sure, there can be no Proof of against peaceable Religious Meetings, whether held under Religious Exercise of <hi>Preaching, Praying, &amp;c.</hi> or in <hi>Silence.</hi>
+               </p>
+            </div>
+            <div n="4" type="section">
+               <argument>
+                  <p n="4">§. IV. Upon enquiry into the sence of <hi>Peace,</hi> as the Law intends it, and the approved Writers explain it, 'twill easily appear, whether or no the said Mee<g ref="char:EOLhyphen"/>tings can legally be adjudged a <hi>Breach</hi> of the <hi>publick Peace</hi> or <hi>Riotous</hi> (whether they be either peace<g ref="char:EOLhyphen"/>ably met in Silence, or under some overt Act of Reli<g ref="char:EOLhyphen"/>gious Exercise) or those Persons <hi>Riotous Breakers</hi> of the <hi>Peace,</hi> who furiously disturb, assault and abuse them?</p>
+               </argument>
+               <pb n="16" facs="tcp:56241:11"/>
+               <p>For a clear and evident solution of the point, ob<g ref="char:EOLhyphen"/>serve <hi>E. L</hi>'s <hi>Philological Commentary</hi> and <hi>Collection,</hi> in his Illustration of the word <hi>Peace.</hi>
+               </p>
+               <p>
+                  <q rend="margQuotes">The Law of the Land (saith he) useth the word <hi>Peace</hi> diversly; sometimes its taken for <hi>Protection</hi> or <hi>Defence;</hi> so <hi>Braction</hi> calleth the Writs of Pro<g ref="char:EOLhyphen"/>tection, <hi>Brevia de Pace:</hi> Sometimes it is taken for <hi>Rights,</hi>
+                     <note place="margin">
+                        <hi>
+                           <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>ambert</hi>'s <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ustice of <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>eace. <hi>
+                           <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>alton.</hi>
+                     </note>
+                     <hi>Privil<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>dges</hi> and <hi>Liberties;</hi> sometimes for an <hi>Abstinence from Injuries, Force</hi> and <hi>Violence, <hi>so its commonly taken.</hi> Menacing</hi> beginneth the <hi>breach of the Peace, Assaulting</hi> encreaseth it, and <hi>Battery</hi> accomplisheth it.</q>
+               </p>
+               <p>The same Author Illustrates the words <hi>Rout, Riot</hi> and <hi>Ʋnlawful Assembly</hi> thus, <hi>viz.</hi>
+               </p>
+               <p>
+                  <q rend="margQuotes">
+                     <hi>Rout</hi> is so called, because they do move and proceed in Routs and Numbers. The difference betwixt an <hi>Ʋnlawful Assembly, Rout</hi> and <hi>
+                        <gap reason="illegible" resp="#murp" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>t</hi> is this: When three or more meet to do an Un<g ref="char:EOLhyphen"/>lawful Act, this is an <hi>Ʋnlawful Assembly:</hi> When they move (being <hi>Weapon'd</hi>) from the place of their meeting, towards the place where they pur<g ref="char:EOLhyphen"/>pose to do an unlawful Act (though they do it not) this is a <hi>Rout,</hi> from the <hi>French</hi> word, <hi>Route,</hi> i. e. <hi>Turma.</hi> When with unlawful Weapons, they do an unlawful Act, this is a <hi>Ri<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t.</hi> An <hi>Ʋnla<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ful Assembly</hi> may well be called an <hi>Introduction;</hi> A <hi>Rout,</hi> a <hi>Prosecution;</hi> and a <hi>Riot,</hi> an <hi>Execution.</hi>
+                  </q>
+               </p>
+               <p>
+                  <note place="margin">
+                     <hi>Cook</hi> on <hi>Lit.</hi> l. 3. §. 50.</note>
+                  <q rend="margQuotes">
+                     <hi>Riot</hi> (saith he) is where three (at least) or more, do some unlawful Act: It comes from the <hi>French</hi> word <hi>Riotter,</hi> i. e. <hi>Rixari, <hi>Scold</hi>
+                     </hi> or <hi>Brawl.</hi>
+                  </q>
+               </p>
+               <p>
+                  <note place="margin">Compl. Just.</note>Other Authors say, <q rend="margQuotes">That <hi>Riot</hi> is where Three or more Persons be disorderly assembled, to commit
+<pb n="17" facs="tcp:56241:11"/> with force any unlawful Act,<note place="margin">
+                        <hi>See</hi> Da<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                        <hi>Tit.</hi> Riot. Forcible E<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                        <g ref="char:EOLunhyphen"/>tries, &amp;c.</note> and do accordingly execute or attempt the same, <hi>Lamb.</hi> 176. <hi>Cro.</hi> 61. a. Nu. 2. <hi>Dalt.</hi> 221.</q>
+               </p>
+               <p>
+                  <q rend="margQuotes">Three or more enter into Land with <hi>Force, &amp;c.</hi> where their Entry is lawful, it is a <hi>Riot, Dalt.</hi> 226. <hi>Cro.</hi> 64. a. Nu. 49.</q>
+               </p>
+               <p>
+                  <q rend="margQuotes">Menacings, Affraies, Assaults,<note place="margin">Compl. Ju<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                        <hi>p.</hi> 34. What sha<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> be account<g ref="char:EOLunhyphen"/>ed a breac<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> of the <hi>peac<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</hi>
+                     </note> Injuries <hi>and</hi> Violent Handlings, <hi>and</hi> Entreatings, Battery <hi>and</hi> Malicious Strikings, <hi>Imprisonment without Warrant;</hi> To thrust one into the water to endanger him; To Ravish a Woman, To commit Fellony <hi>or</hi> Treason; <hi>Dalt. 181. Lamb. 127.</hi>
+                  </q>
+               </p>
+               <p>
+                  <q rend="margQuotes">An <hi>Ʋnlawful Assembly</hi> is of the Company of <hi>Three</hi> or more Persons disorderly coming together,<note place="margin">Compl. Jus<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                        <hi>p.</hi> 349.</note> forcibly to commit an unlawful Act, as to <hi>Beat a Man,</hi> or <hi>Enter upon his Possession,</hi> or the like; <hi>Lam.</hi> 175. <hi>Dalt.</hi> 221. <hi>P. R.</hi> 25. <hi>Cro.</hi> 61. a. Nu. 3.</q>
+               </p>
+               <p>
+                  <q rend="margQuotes">
+                     <hi>First,</hi> An <hi>Ʋnlawful Assembly,</hi> it is only to meet to such a purpose, though they willingly depart without doing any thing: <hi>Secondly,</hi> After meeting, to move forward toward the executing of such Act, whether it be done or no, is a <hi>Rout: Thirdly,</hi> To execute such a thing is, a <hi>Riot, Dalt. Lamb.</hi> 175, 176. <hi>Cro.</hi> 61. a. <hi>nu.</hi> 3.</q>
+               </p>
+               <p>
+                  <q rend="margQuotes">In an <hi>Ʋnlawful Assembly, Rout</hi> or <hi>Riot,</hi>
+                     <note place="margin">Comp. Just. <hi>ibid.</hi>
+                     </note> two things are common, and must concur: <hi>First,</hi> That Three persons at least be gathered together: 2dly, That their being together breed some <hi>apparent Disturbance</hi> of the Peace, either by Speech, shew of Armour, turbulent Gesture, or actual and <hi>express Violence,</hi> so that either the peaceable sort of men be unquieted and feared by the fact, or the lighter sort
+<pb n="18" facs="tcp:56241:12"/> and Busie-bodies be emblodened by the Example, <hi>Lam.</hi> 176, 177. <hi>Lit. Brook,</hi> case 510. see <hi>Shepherds grand Abridgment</hi> on the same.</q>
+               </p>
+               <p>
+                  <hi>Note;</hi> Seeing that 'tis plain, That three or more Persons coming together, Forcibly to commit an un<g ref="char:EOLhyphen"/>lawful Act, to the injury of others (though they do it not) is an <hi>Ʋnlawful Assembly,</hi> and their executing such a thing, is a <hi>Breach of the Peace</hi> and <hi>Riot;</hi> see how <hi>Force</hi> in the sence of Law is explained, <hi>viz.</hi>
+               </p>
+               <p>
+                  <note place="margin">
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ompl. Just. <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>. 102.</note>
+                  <q rend="margQuotes">That which is properly <hi>Force,</hi> is either <hi>Manu Forti</hi> or <hi>Multitudine: <hi>Manu Forti</hi>
+                     </hi> is Violence offered to the Person of another by Deed or Word, <hi>Dalt.</hi> 199. By deed or actual Violence, or to be furnished with offensive Weapons, not usually born, <hi>ibid. <hi>Multitudine,</hi>
+                     </hi> where there be two or three in a Company,<note place="margin">Dalt. <hi>under the Title</hi> Riots, Forci<g ref="char:EOLhyphen"/>ble Entry, &amp;c.</note> or more, to make a <hi>Riot,</hi> or to do a <hi>Force, Dalt.</hi> A Trespass made <hi>Manu Forti</hi> or <hi>cum Multitudine,</hi> though it be but to cut or take away another man's Corn, Grass, or Goods, or sell or crop Wood, or to do any other Trespass, <hi>&amp;c.</hi> seemeth <hi>Forcible Entry,</hi> punishable by the Statutes, <hi>Lamb.</hi> 143. <hi>Dalt.</hi> 200. And the Indictment here<g ref="char:EOLhyphen"/>upon must be good, both in matter and form, the words <hi>manu Forti</hi> or <hi>cum Multitudine</hi> are necessary, <hi>Dalt.</hi>
+                  </q>
+               </p>
+               <p>What shall be said to be a <hi>Riot, Rout</hi> or <hi>Ʋnlawful Assembly,</hi> within the meaning of these Statutes, 13 <hi>H.</hi> 4. 7. and cap. 9, 7. 2 <hi>H.</hi> 5, 8. and 19 <hi>H.</hi> 7. 13.</p>
+               <p>
+                  <q rend="margQuotes">When three Persons or more shall come or as<g ref="char:EOLhyphen"/>semble themselves together, to the <hi>Intent</hi> to do any unlawful Act with <hi>Force</hi> or <hi>Violence</hi> against the
+<pb n="19" facs="tcp:56241:12"/> Person of another, his <hi>Possessions</hi>
+                     <note n="[a]" place="margin">
+                        <hi>Su<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> like Usag<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> have the<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>
+                        </hi> Quakers <hi>an<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> their Mee<g ref="char:EOLhyphen"/>ting-Room and the</hi> poo<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                        <hi>Widdows House an<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> Tenement met witha<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> at</hi> Bristol, <hi>(those tha<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> have seen the usage i<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>
+                        </hi> Fact, <hi>may easily judge whether 'twas not</hi> Riotous) <hi>Their Complaint is also</hi> Of the gross Abuse and Violence done to them at their Meetings, as by Beating, Push<g ref="char:EOLhyphen"/>ing, Pulling and Tearing Womens Clothes, Scarfs, Hoods, &amp;c. shameful In<g ref="char:EOLhyphen"/>civilities used towards them; and some of them Pinched in their Arms, throw down in the Street, hurt and bruised.</note> or <hi>Goods,</hi> as to <hi>Kill, Beat,</hi> or otherwise to <hi>Hurt</hi>
+                     <note n="[a]" place="margin">
+                        <hi>Su<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> like Usag<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> have the<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>
+                        </hi> Quakers <hi>an<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> their Mee<g ref="char:EOLhyphen"/>ting-Room and the</hi> poo<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                        <hi>Widdows House an<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> Tenement met witha<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> at</hi> Bristol, <hi>(those tha<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> have seen the usage i<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>
+                        </hi> Fact, <hi>may easily judge whether 'twas not</hi> Riotous) <hi>Their Complaint is also</hi> Of the gross Abuse and Violence done to them at their Meetings, as by Beating, Push<g ref="char:EOLhyphen"/>ing, Pulling and Tearing Womens Clothes, Scarfs, Hoods, &amp;c. shameful In<g ref="char:EOLhyphen"/>civilities used towards them; and some of them Pinched in their Arms, throw down in the Street, hurt and bruised.</note> or to <hi>Imprison a Man,</hi> to <hi>pull down a House, Wall, Pale, Hedge</hi> or <hi>Ditch wrongfully,</hi> to enter upon another <hi>man's Posses<g ref="char:EOLhyphen"/>sion,</hi> or to cut or take away <hi>Corn, Grass, Wood</hi> or other Goods wrongfully, or to <hi>Hunt</hi> unlawfully in any <hi>Park</hi> or <hi>Warren,</hi> or to do any other unlawful Act (with <hi>Force</hi> or <hi>Violence</hi>) against the Peace, or to the manifest Terror of the People; if they only meet to such a purpose or intent (although they shall after depart of their own accord, without doing any thing) yet this is an <hi>Ʋnlawful Assembly;</hi> vide <hi>Dalt.</hi> under the Title <hi>Riots.</hi>
+                  </q>
+               </p>
+               <q rend="margQuotes">
+                  <p>If after the first Meeting, they shall ride, go or move forward towards the execution of any such Act (whether they put their intended purpose in execution or not) this is a <hi>Rout.</hi>
+                  </p>
+                  <p>And if they do execute any such thing indeed,<note n="[b]" place="margin">As they did on several hou<g ref="char:EOLhyphen"/>ses in <hi>Bristol,</hi> breaking down &amp; de<g ref="char:EOLhyphen"/>facing the In-sides, <hi>Wainscots, Partitions, &amp;c.</hi>
+                     </note> then it is a <hi>Riot.</hi>
+                  </p>
+                  <p>Now in <hi>Riots, Routs</hi> and <hi>Ʋnlawful Assemblies</hi> these four Circumstances are to be considered:</p>
+                  <p>First, <hi>The Number of the Persons assembled.</hi>
+                  </p>
+                  <p>
+                     <hi>Secondly,</hi> The Intent and Purpose of their Mee<g ref="char:EOLhyphen"/>ting.</p>
+                  <p>
+                     <hi>Thirdly,</hi> The Lawfulness or Ʋnlawfulness of the Act.</p>
+                  <pb n="20" facs="tcp:56241:13"/>
+                  <p>
+                     <hi>Fourthly,</hi> The <hi>Manner</hi> and <hi>Circumstance</hi> of do<g ref="char:EOLhyphen"/>ing it.</p>
+                  <p>For the <hi>Number,</hi> there must necessarily be three Persons at the least so gathered together, or else it can be no <hi>Riot, Rout</hi> or <hi>Ʋnlawful Assembly</hi> within the meaning of these Statutes.</p>
+               </q>
+               <p>By the Statute of 1 <hi>M.</hi> 12. and 1 <hi>Eliz.</hi> 16. <q rend="margQuotes">If twelve persons or more assembled together, with intention to practise or put in use with Force and Arms unlawfully, and of their own Authority to change any Laws, &amp;c. in force, refusing to depart, or continuing together by the <hi>space of one hour after Proclamation</hi> made by the <hi>Sheriff</hi> or <hi>Justice, &amp;c.</hi> it was adjudged Fellony in them all.—But these two last Statutes stand now discontinued; <hi>Dalt.</hi> under the Title <hi>Riots, ibid.</hi>
+                  </q>
+               </p>
+               <p>
+                  <q rend="margQuotes">But an Assembly of an Hundred Persons, or more (yea,<note place="margin">Assemblies lawful.</note> though they be in Armour) yet if it be not <hi>in Terrorem Populi,</hi> and were assembled without any intent to break the Peace, it is not prohibited by any of these Statutes, nor unlawful.</q>
+               </p>
+               <p>
+                  <q rend="margQuotes">For the <hi>Intent.</hi> It seemeth, it can be no <hi>Riot,</hi> &amp;c. except there be an Intent precedent, to do some unlawful act, and with Violence or Force; <hi>Dalt. ibid.</hi>
+                  </q>
+               </p>
+               <p>
+                  <q rend="margQuotes">Also, where there be three or more, gathered together to execute the Justice of the Law, or for the exercise of Valour and tryal of Activity, or for the encrease of <hi>Amity</hi> and <hi>Neighbourly Friendship</hi> (and not being met with an Intent to break or disturb the Peace, or to offer Violence or Hurt to the person of any) such Assemblies be not
+<pb n="21" facs="tcp:56241:13"/> prohibited by any of these Statutes, nor unlawful; see <hi>Dalt. ibid.</hi> under the Title <hi>Riots,</hi> p. 142.</q>
+               </p>
+               <p>
+                  <q rend="margQuotes">Every man in peaceable manner may assemble, meet Company, and may come to do any lawful thing, or to remove or cast down any common <hi>Nusans. Dalt. ibid.</hi>
+                  </q>
+               </p>
+               <p>
+                  <hi>To Conclude this point, for the Manner &amp; Circumstances.</hi>
+               </p>
+               <p>
+                  <q rend="margQuotes">As there must necessarily be three Persons at the least assembled together, to make a <hi>Riot, &amp;c.</hi> so their being together, and their demeanour must be such as shall or may <hi>breed some apparent Disturbance of the Peace,</hi> either by <hi>Threatning Speeches, Turbulent Gesture, shew of Armour,</hi> or <hi>actual Force or Violence,</hi> (to the Terror and fearing of the peaceable sort of People,<note place="margin">Dalt. <hi>Title</hi> Riots.</note> or to the emboldening and stirring up of such as are busie-headed, and of Evil disposition by such <hi>Fact</hi>) or else it can be no <hi>Riot,</hi> &amp;c. <hi>Dalt. ibid.</hi> p. 195. <hi>Shep. gr. Abridg.</hi> Tit. <hi>Riot, Rout, Ʋnlawful Assembly, fol.</hi> 259.</q>
+               </p>
+            </div>
+            <div n="5" type="section">
+               <argument>
+                  <p>§. V. Further, to shew the unwarrantable pro<g ref="char:EOLhyphen"/>ceeding of those Officers and Persons at <hi>Bristol,</hi> who force their peaceable Neighbours to Prison, at their Arbitrary Wills and Pleasures, without Warrant or Process under Hand and Seal of a Justice, or so much as convening before a Justice, as also <hi>Their Nailing up Eighty seven Women and Fourteen Men together in their Meeting-House, and their detaining them close Prisoners for may hours together, &amp;c.</hi> let the following Instances be observed.</p>
+               </argument>
+               <pb n="22" facs="tcp:56241:14"/>
+               <note place="margin">See <hi>Dalt.</hi> tit. <hi>Warrants,</hi> 14. <hi>H.</hi> 7, 8. <hi>Br. Peace,</hi> 7.</note>
+               <q rend="margQuotes">
+                  <p>The Justices of Peace cannot command by word to Arrest another, being out of their presence; neither may one in the absence of the Justice Arrest another upon his command by <hi>Parol,</hi> but it must be by a <hi>Precept</hi> or <hi>Warrant</hi> in writing, by the greater opinion or the Justices.</p>
+                  <p>Now their Warrant or Precept by Writing ought to be under their Hand and Seal, or under their Hand at least.</p>
+                  <p>And if it be for the <hi>Peace</hi> or <hi>good Behaviour,</hi> or the like, where Sureties are to be found or required, <hi>The <hi>Warrant</hi>
+                     </hi>
+                     <note n="[c]" place="margin">
+                        <hi>But we may</hi> wonder <hi>what</hi> War<g ref="char:EOLhyphen"/>rant <hi>or</hi> Law <hi>they had for</hi> Nailing up &amp; Imprison<g ref="char:EOLhyphen"/>ing so many Scores of Wo<g ref="char:EOLhyphen"/>men, <hi>&amp;c.</hi> in their Mee<g ref="char:EOLhyphen"/>ting - House, and for put<g ref="char:EOLhyphen"/>ting the poor Harmless Children in the Stooks?</note>
+                     <hi>ought to contain the special Cause and Matter whereupon it is granted,</hi> to the intent that the party (upon whom it is to be served) may provide his Sureties ready, and take them with him to the Justice of Peace, to be bound for him.</p>
+                  <p>The Sherriff having a Warrant directed to him by the Justice of Peace, and will command another man (that is no such known Officer) to serve it, he must deliver him a Precept in writing, other<g ref="char:EOLhyphen"/>wise a <hi>Writ of False Imprisonment</hi> will lie for the Arrest.</p>
+                  <p>If the Justice will direct his Warrant to his Ser<g ref="char:EOLhyphen"/>vant, or to another (who is no Sworn Officer) to serve it,<note place="margin">Dalt. <hi>Title</hi> Warrants, fol. <hi>291.</hi>
+                     </note> they must shew their Warrant to the Party, if he demand it, or otherwise the party may make Resistance, and needs not to obey it.</p>
+                  <p>
+                     <note place="margin">
+                        <hi>Cook</hi> 6. 54. &amp; 9. 68. <hi>Dalt. ibid.</hi> tit. <hi>Warrants</hi>
+                     </note>A sworn and known Officer, if he will not <hi>shew his Warrant</hi> to the party, yet he ought, upon the Arrest to declare the Contents of his Warrant, &amp;c.</p>
+                  <p>And an Officer giveth sufficient Notice, what he
+<pb n="23" facs="tcp:56241:14"/> is, when he saith to the Party, <hi>I Arrest you in the King's Name, &amp;c.</hi> and in such case the Party at his perril ought to obey him, though he knoweth him not to be an Officer. And if he have no lawful Warrant, the Party grieved may have his Action of <hi>False Imprisonment</hi> against him; <hi>Dalt.</hi> Title <hi>Warrants.</hi>
+                  </p>
+               </q>
+               <p>
+                  <hi>Query;</hi> Set case an Officer doth Arrest a Man or persons for the Peace, or the like, and not only so, but sends them to Goal, and there detains them for some hours, it may be days &amp; nights before that he hath any <hi>Warrant,</hi> and then afterward doth either procure a Warrant, or cause the persons thus Imprisoned to be convened (which is our case at <hi>Bristol</hi> frequently) before a Magistrate, and then committed by Warrant, Whether this be warrantable or legal?</p>
+               <p>
+                  <hi>Answ.</hi> No;<note place="margin">Dyer <hi>244.</hi> F. Bar. <hi>248.</hi> Lamb. <hi>93.</hi>
+                  </note>
+                  <q rend="margQuotes">If an Officer doth Arrest a man <hi>for the Peace, or the like,</hi> before that he hath any War<g ref="char:EOLhyphen"/>rant, and then afterward doth procure a Warrant, (or a Warrant cometh after him) to Arrest the party for the same cause, yet the <hi>first Arrest</hi> was <hi>wrongful,</hi> and <hi>the Officer is subject to an Action of false Imprison<g ref="char:EOLhyphen"/>ment;</hi> see <hi>Dalt.</hi> Tit. <hi>Warrants.</hi>
+                  </q>
+               </p>
+               <p>See also <hi>Edm. Wingate</hi>'s <hi>Abridgment,</hi> under the Title <hi>Sheriffs,</hi> §. 46. <hi>Stat.</hi> 1. <hi>E.</hi> 4. 2. <q rend="margQuotes">Sheriffs shall de<g ref="char:EOLhyphen"/>liver all Indictments and presentments taken in their Turns unto the Justices of Peace at their next Ses<g ref="char:EOLhyphen"/>sions, in pain of 40 <hi>l. &amp;c.</hi> And here if the Sheriff levy any Fine, or commit any to Prison by colour of any such Indictment or Presentment, <hi>or otherwise, than by Warrant from the Iustices,</hi> as aforesaid, shall forfeit 100 <hi>l.</hi>
+                  </q>
+               </p>
+               <pb n="24" facs="tcp:56241:15"/>
+               <p>§. 66. <hi>ibid. Stat.</hi> 1. <hi>M. Par.</hi> 1. <hi>Sess.</hi> 2. <hi>cap.</hi> 8. <q rend="margQuotes">No Sheriff shall be Justice of Peace, during his Shrie<g ref="char:EOLhyphen"/>valty; and all acts then done by him <hi>as Justice of Peace,</hi> shall be void.</q>
+               </p>
+               <p>
+                  <hi>Query,</hi> Whether to distrain and spoil Peoples Goods, and keep their Bodies in Prison for the same Meeting or Offence (supposed) be warrantable in Law?</p>
+               <p>
+                  <hi>Answ.</hi> No: See <hi>Mirrour,</hi> Tit. <hi>Abuses of the common Law,</hi> §. 154. <q rend="margQuotes">It is Abuse to judge a man to divers Punishments for one Trespass, as to a corporal Punishment and to a Ransom, since <hi>Ransom</hi> is but a <hi>Redemption</hi> from <hi>Corporal Punishment</hi> by Payment of a Fine of Money.</q>
+               </p>
+               <p>
+                  <hi>Obj.</hi> If it be alledged, viz. <hi>Though the Sheriff and Officers find your Meetings in a peaceable quiet posture, and no Violence or Force to any person committed, threatned or offered, whereby to render it a breach of the publick Peace, or a Riot, (which are all one) But their not dispersing im<g ref="char:EOLhyphen"/>mediately upon Proclamation made by the Sheriff or Con<g ref="char:EOLhyphen"/>stable, and Informers, this makes their Meeting a breach of the publick Peace, and consequently a</hi> Riot (<hi>for so our Town Clerk, and Sheriff</hi> Knight, <hi>and Informers of</hi> Bristol <hi>have declared it) and therefore they may force the Meeters to Goal in the first place without Warrant.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Its evident then that the Meeting is no <hi>Riot</hi> (being in no Riotous posture) before such mandatory Proclamation; and its as evident, that 'tis a Prepo<g ref="char:EOLhyphen"/>sterous and Irregular way of proceeding (and as weakly argued) to make such Proclamation an
+<pb n="25" facs="tcp:56241:15"/> occasion or cause of the Riot, when-as a Riot should be the occasion of such Proclamation, for the Riotous Persons or Disturbers of the Peace to disperse, otherwise the Sheriff, &amp;c. may at their wills and pleasures exercise such Jurisdiction and arbitrary Domi<g ref="char:EOLhyphen"/>nion over any of the King's peaceable Subjects, when they give no occasion for any such command over their persons: This is a new course of preposterous proceeding; and their forcing the Persons to Goal without Warrant, appears as unwarrantable.</p>
+               <p>Pray, <hi>first,</hi> by what Law is such Proclamation made by the Sherriff, &amp;c. to Persons in no unquiet, no formidable nor Riotous posture? <hi>secondly,</hi> By what Law do they deem the Meeters not presently submitting to the Sherriffs command, a breach of the Peace or Riot, when they are peaceable and passive, and neither hurt nor offer the least Violence or Harm to any Body? How can it be proved then, that any thing is done by them that is <hi>Malum in se,</hi> to occa<g ref="char:EOLhyphen"/>sion such command or penalty?</p>
+               <p>For where the Law requires the Justice of Peace, together with the Sherriff, to command the dispersing of such Unlawful Assemblies as are Riotous in Intention or Fact, they are really so first. And their being such either by Intention manifest, by shew of Armour or menacing Words, &amp;c. or else Riotous in Fact (their being Riotous) is the occasion of the Justices manda<g ref="char:EOLhyphen"/>tory Proclamation to disperse; and not his Procla<g ref="char:EOLhyphen"/>mation the cause of their being such. Nor can pre<g ref="char:EOLhyphen"/>venting Justice be justly pleaded for such Proclamation and Punishment for <hi>breach of the King's Peace,</hi> when no matter of Fact appears of that nature, on their
+<pb n="26" facs="tcp:56241:16"/> parts, who are thus prosecuted and punished for <hi>Pre<g ref="char:EOLhyphen"/>vention;</hi> and the pretence of Prevention grants no Fact perpetrated or done. And Suspicion cannot justly be pretended to punish persons equally with Offendors, any more than to Hang a man on Suspi<g ref="char:EOLhyphen"/>cion of Fellony, when no such fact can be proved against him.</p>
+            </div>
+            <div n="6" type="section">
+               <argument>
+                  <p n="6">
+                     <note place="margin">The Case of the Pri<g ref="char:EOLhyphen"/>soners.</note>
+                     <hi>§. VI.</hi> As a farther Addition to the Cruelty against us, such great Numbers have been from time to time sent to Goal, most of them poor Handicrafts men, all of us (being then) near Ninety Persons at a time held under severe Restraint, both much of the last Winter, and since, that we have no conveniency of Room, either for Work, Lodging or Air; but crowded and prest in that Extremity, that a great number have been forced to sit up all Night, and afterward some to lie under the Tables, resting their heads upon the foot frame thereof, and some upon the Tables, and many to lie on Mats all over the Floors of two very cold Rooms in Winter, being the publick Thorow-passages of the Goal; And not only so, but now in this hot season, we are crowded and Thronged together in such great Numbers in a close noisom Goal, as tends to breed Infection (according as able <hi>Physitians</hi> and other persons of Credit in <hi>Bristol</hi> have certified under their hands) and to suffocate and clan<g ref="char:EOLhyphen"/>destinly to bring many to a lingering Death, for want of good Air and convenient Room and Lodging for so many scores of Persons, both Men and Women, under such Duress or Hardship in <hi>Newgate,</hi> besides that of <hi>Bridewell,</hi> wherein also many Women are crowded and closely kept, so that even in this Moneth called <hi>July, 1682.</hi> we are close Prisoners to about the Number of Eight Score, whereof a great Number are Women.</p>
+               </argument>
+               <pb n="27" facs="tcp:56241:16"/>
+               <p>
+                  <hi>Query,</hi> Whether such close and destructive Confine<g ref="char:EOLhyphen"/>ment be warrantable or legal, either in Sheriff, Goaler or other Officers?</p>
+               <p>
+                  <hi>Answ.</hi> No; 'tis wholly unwarrantable, and against Law, as by the following Reasons, Authorities and Instances plainly appears.</p>
+               <p>By common Law we find,<note place="margin">
+                     <hi>Legal Exa<g ref="char:EOLhyphen"/>mination.</hi> Bracton, lib. <hi>3.</hi> fol. <hi>105.</hi> Stamf. ple. Cro. fol. <hi>70.</hi>
+                  </note>
+                  <q rend="margQuotes">That <hi>Carceres ad conti<g ref="char:EOLhyphen"/>nendos, non ad puniendos haberi Debent, i. e.</hi> Goals are ordained to hold Prisoners, not to punish them.</q>
+               </p>
+               <p>
+                  <q rend="margQuotes">For Imprisonment by the Law, is no more (nor ought to be) than a bare restraint of Liberty, with<g ref="char:EOLhyphen"/>out those illegal and unjust Destructions of close and open Prison.</q>
+               </p>
+               <p>Therefore chief Justice <hi>Cook</hi> saith,<note place="margin">
+                     <hi>3</hi> Inst. <hi>91.</hi> Britton, fol. <hi>18.</hi> Flet. l. <hi>1.</hi> c. <hi>26.</hi> Cook <hi>3</hi> Inst. fol. <hi>34.</hi>
+                  </note>
+                  <q rend="margQuotes">That if the Goaler keep the Prisoners more straitly than he ought of right, whereof the Prisoner dyeth, this is <hi>Fellony in the Goaler</hi>
+                     <note n="[d]" place="margin">It is de<g ref="char:EOLhyphen"/>sired, if it be the will of the Lord, that the hard Ʋ<g ref="char:EOLhyphen"/>sage and strait Confinement of those called <hi>Quakers</hi> in <hi>Bristol</hi> may not occasion Infection in that City, nor the Death of any of them in Prison, that the Guilt of Innocent Blood may not fall upon that City (the danger whereof has been fully signified.) But if any of them be forced to end their days in Prison, 'tis to be hoped, That the <hi>Coroners Inquest</hi> will have good Information, and take just cognizance of the occasion, that the Cry of innocent Blood may not be unjustly smothered, when they are unjustly and clandestinly destroyed in a nasty Goal.</note> by the common Law. And this is the cause, that if a Prisoner dye in Prison, the Coroner ought to sit on him.</q>
+               </p>
+               <p>See also the said <hi>Cook,</hi> sol. 34. cap. <hi>petty Treason,</hi> how Prisoners are to be used, wherein is also an account of
+<pb n="28" facs="tcp:56241:17"/> an Indictment of a Goaler for evil Usage of his Pri<g ref="char:EOLhyphen"/>soner, <hi>fol.</hi> 35. in <hi>Trin. Term,</hi> 7. <hi>E.</hi> 3. <hi>Cor. Rege rot.</hi> 44. <hi>praesentat,</hi> &amp;c. <q rend="margQuotes">That whereas one <hi>R. B.</hi> of <hi>T.</hi> was taken and detained in the Prison of <hi>Lincoln</hi> Castle, for a certain Debt of Statute Merchant, in the the custody of <hi>T. B.</hi> Constable of the Castle of <hi>L.</hi> aforesaid. That the said <hi>T. B.</hi> put the said <hi>R.</hi> into the common Goal among Thieves in a filthy Prison, contrary to the form of the Statute, &amp;c. and there detained him till he had paid him a fine of 40 <hi>s.</hi>
+                  </q>
+               </p>
+               <p>Whereupon Justice <hi>Cook</hi> makes this Observation; so as hereby it appeareth, where the Law requireth that a Prisoner should be kept <hi>(vi salvà &amp; arctà Custodi<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>)</hi> that is, <q rend="margQuotes">In safe and sure Custody; yet that must be without any pain or torment to the Prisoner.</q>
+               </p>
+               <p>So <hi>Cook</hi> 3. Inst. 52. saith, <q rend="margQuotes">If a Prisoner by the <hi>Duress,</hi> that is, hard Usage of the Goaler, come to Untimely Death, this is <hi>Murder in the Goaler,</hi> and in the Law implyeth <hi>Malice,</hi> in respect of the Cruel<g ref="char:EOLhyphen"/>ty; And this is the cause, that if a man dye in Prison, the Coroner ought to sit upon his Body, to the end it may be enquired of,<note place="margin">Brit. <hi>c. 11.</hi> de Prison, fol. <hi>18.</hi>
+                     </note> Whether he came to his Death by the Duress of the Goaler, or otherwise?</q>
+               </p>
+               <p>All which appeareth in <hi>Britton.</hi>
+               </p>
+               <p>
+                  <note place="margin">See <hi>Mirror,</hi> c. 2. §. 11 <hi>de Homicid,</hi> 5 <hi>Hen</hi> 6. 58 <hi>Mirror,</hi> Tit. <hi>Goal,</hi> cap. 2. §. 9.</note>
+                  <hi>Mirror Just.</hi> saith, <q rend="margQuotes">That it is an abuse of the Law that Prisoners are put into Irons, or other pain, before they are attainted.</q>
+               </p>
+               <p>
+                  <q rend="margQuotes">Also, because it is forbidden, that any be pained before Judg<g ref="char:EOLhyphen"/>ment, the<note n="[e]" place="margin">How then will Sheriff <hi>Knight</hi> &amp; <hi>John Hilliar, &amp;c.</hi> answer their A<g ref="char:EOLhyphen"/>buses &amp; Violence done to the Prison<g ref="char:EOLhyphen"/>ers in Goal, in pushing one back<g ref="char:EOLhyphen"/>ward down Stairs, to the hazarding his Life; putting some down into the condemned <hi>Fellons Hole,</hi> with other Violence, Threat<g ref="char:EOLhyphen"/>ning the Prisoners with <hi>Irons,</hi> &amp;c? as related in their <hi>Distressed Case</hi> in Print, pag. <hi>26, 27, 28.</hi> Besides their great Oppression by crowding the Goal so full, both <hi>New<g ref="char:EOLhyphen"/>gate</hi> &amp; <hi>Bridewel,</hi> without regard to <hi>Age, Sex, Quali<g ref="char:EOLhyphen"/>ty</hi> or <hi>Condition?</hi> Add to these their putting poor inno<g ref="char:EOLhyphen"/>cent Children in the Stocks at <hi>High-Cross;</hi> see their <hi>Farther Account, p. 5.</hi> As also their other Abuses and Cruelties to the poor Children.</note> Law requireth, that none be put among Vermin, or in any horrible or dangerous place.</q>
+               </p>
+               <pb n="29" facs="tcp:56241:17"/>
+               <p>
+                  <q rend="margQuotes">And also, they fall under the Of<g ref="char:EOLhyphen"/>fence of <hi>Manslaughter,</hi>
+                     <note place="margin">Mirror, c. <hi>1<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> §. 9.</hi> Of Manslaugh<g ref="char:EOLhyphen"/>ter.</note> who impri<g ref="char:EOLhyphen"/>son the people in such places, or put them to such punishment, where it may be found by <hi>Inquest,</hi> that by those means, places or pu<g ref="char:EOLhyphen"/>nishments they come sooner to their Deaths, <hi>ibid.</hi> see also <hi>Cook</hi> 3 <hi>Inst.</hi> 34, 35.</q>
+               </p>
+               <p>
+                  <q rend="margQuotes">Also, into the Offence of <hi>Man<g ref="char:EOLhyphen"/>slaughter</hi> fall all those by whom a man dyeth in Prison; and that may be either by the Judge, who delays to do Justice, or by Duress and the Keepers, or by other unjustifi<g ref="char:EOLhyphen"/>able occasion—And those who kill a man imprisoned, by a sur<g ref="char:EOLhyphen"/>charge of pain, in case when any is adjudged to penalty only.</q> And also reckons the starving of Prisoners by Famine, to be among the crimes of <hi>Homicide</hi> in a Goaler: Which al<g ref="char:EOLhyphen"/>so Judge <hi>Cook</hi> holds in 3 <hi>Inst.</hi> c. 29. Tit<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, <hi>Fellony</hi> in Goalers by Duress of Imprisonment, &amp;c. by Statute, and by the common Law, fol. 91.</p>
+               <p>After in the <hi>Miorror,</hi> an account is given of 44 Justices or Judges in one year hanged by K. <hi>Alfrid,</hi> for their false Judgment and Injustice. Ano<g ref="char:EOLhyphen"/>ther account is given, <q rend="margQuotes">That he hanged the Suitors of <hi>Cirencester,</hi> because they kept a man so long in Prison, who would have acquitted himself by Forreigners, that he offended not felloniously, <hi>Tit.</hi> Abus. com. Law. <hi>c. 5. §. 1.</hi>
+                  </q>
+               </p>
+               <pb n="30" facs="tcp:56241:18"/>
+               <p>Also, observe what provision is made for Prisoners by the statute 22 &amp; 23 <hi>Car.</hi> 2. cap. 20. §. 10. <hi>viz.</hi>
+                  <q rend="margQuotes">And that every under-Sheriff, Goaler, Keeper of Prison or Goal, and every person or persons what<g ref="char:EOLhyphen"/>soever, to whose Custody any person or persons shall be delivered or commited, by virtue of any Writ of process, or any pretence whatsoever, shall permit and suffer the said person or persons, at his and their will and pleasure to send for and have any Beer, Ale, Victuals and other necessary Food where and from whence they please; as also to have and use such Bedding, Linning, and other things, as the said person or persons shall think fit,<note n="(f)" place="margin">All which shews, they are not to be stifled or de<g ref="char:EOLhyphen"/>stroy'd in Prison.</note> without any prolong<g ref="char:EOLhyphen"/>ing, detaining or paying for the same, or any part thereof.</q>
+               </p>
+               <p>
+                  <hi>Ibid.</hi> §. 13. <q rend="margQuotes">And whereas it is become the common practice of Goalers, &amp;c. to lodge together in one Room or Chamber and Bed, Prisoners for Debt and Fellons, whereby many times honest Gentlemen, Trades-men &amp; others, &amp;c. are disturbed and hindred in the night time from their natural Rest, by reason of their Fetters and Irons, and otherwise much of<g ref="char:EOLhyphen"/>fended and troubled by their lewd and prophane Language and Discourses, with most horrid <hi>Cursing</hi> and <hi>Swearing,</hi> &amp;c. Be it enacted, &amp;c. That it shall not be lawful hereafter for any Sheriff, Goaler or Keeper of any Goal or Prison, to put, keep or lodge Prisoners for Debt &amp; Fellons together in one Room or Chamber, but that they shall be put, kept and lodged seperate &amp; apart one from another, in distinct Rooms,<note n="(g)" place="margin">
+                        <hi>And as</hi> the common Goal or Pri<g ref="char:EOLhyphen"/>son is the King's, and none hath a common Pri<g ref="char:EOLhyphen"/>son or Goal, but the King only, Mir. <hi>tit.</hi> Goals and Goalers, <hi>c. 2. §. 9. and</hi> Manslaugh<g ref="char:EOLhyphen"/>ter, <hi>c. 1. §. 9. So a free</hi> Prison <hi>ought to be allow<g ref="char:EOLhyphen"/>ed the</hi> Kings <hi>Prisoners.</hi>
+                     </note> upon pain, that he, she or they that shall offend against this Act, or the true intent and
+<pb n="31" facs="tcp:56241:18"/> meaning thereof, or any part thereof, shall forfeit or lose his or her Office, place or Employment, and shall forfeit treble Damages to the party grieved, to be recovered by virtue of this Act; any Law, Sta<g ref="char:EOLhyphen"/>tute, Usage or Custom to the contrary in any wise notwithstanding.</q>
+               </p>
+               <p>Also, there is another Right and Priviledge allowed by Law for delivering Warrants of Commitment and Detainer to Prisoners, which some Goalers having been ready to hinder them of, it may not be amiss here to incert the Clause of the statute, 31 <hi>Car.</hi> 2. entituled, <hi>An Act for the better securing the Liberty of the Subject,</hi> commonly called, <hi>The late Habeas Corpus Act.</hi>
+               </p>
+               <p>
+                  <hi>The Clause:</hi>
+                  <q rend="margQuotes">And be it further enacted by the Authority aforesaid, That if any Officer or Officers, his or their under Officer or under Officers, under Keeper or under Keepers or Deputy—upon de<g ref="char:EOLhyphen"/>mand made by the Prisoner, or person in his behalf, shall refuse to deliver, or within the space of six hours after demand shall not deliver to the person so demanding, a true Copy of the Warrant or War<g ref="char:EOLhyphen"/>rants of Commitment and Detainer of such Prisoner, which he and they are hereby required to deliver accordingly, all and every the head Goalers and Keepers of such Prisons, and such other person in whose custody the Prisoner shall be detained, shall for the first offence forfeit to the Prisoner or party grieved, the Sum of 100 <hi>l.</hi> and for the second Of<g ref="char:EOLhyphen"/>fence the sum of 200 <hi>l.</hi> and shall and is hereby made incapable to hold or execute his said Office: The said penalties to be recovered by the Prisoner or party grieved, his Executors or Administrators,
+<pb n="32" facs="tcp:56241:19"/> against such Offendor, his Executors or Admini<g ref="char:EOLhyphen"/>strators, by any action of Debt, Suit, Bill, Plaint or Information in any of the King's Courts at <hi>Westmin<g ref="char:EOLhyphen"/>ster, &amp;c.</hi>
+                  </q>
+               </p>
+               <p>Note, <hi>That the suffering Case of the People called</hi> Quakers <hi>in the City of</hi> Bristol, <hi>is more fully stated in their own late Accounts: The one entituled,</hi> The Distressed Case of the People called <hi>Quakers</hi> in the City of <hi>Bristol,</hi> and their Inhu<g ref="char:EOLhyphen"/>mane Ʋsage. <hi>The other entituled,</hi> A farther Account of the Continuation of the cruel Persecution of the People called <hi>Quakers</hi> in <hi>Bristol,</hi> without regard to Age or Sex.</p>
+            </div>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>Books Printed and Sold by <hi>Andrew Sowle</hi> at the sign of the Crooked-Billet in <hi>Holloway-Lane</hi> in <hi>Shoreditch.</hi> and at his Shop without <hi>Bishop-Gate.</hi>
+            </head>
+            <p>DƲe Order of Law and Justice pleaded, against Irregular and Arbitrary Proceedings. By <hi>George Whitehead.</hi>
+            </p>
+            <p>
+               <hi>NO CROSS, NO CROWN:</hi> Being a Discourse of the Holy Cross of Christ. By <hi>William Penn.</hi>
+            </p>
+            <p>
+               <hi>An Epistle,</hi> containing a Salutation to all faithful Friends a Re<g ref="char:EOLhyphen"/>proof to the Ʋnfaithful, and a Visitation to the Enquiring, in a solemn <hi>Farewell</hi> to them all the Land of my Nativity. By <hi>William Penn.</hi>
+            </p>
+            <p>An Address to Protestants upon the present Conjuncture. By <hi>W. P.</hi>
+            </p>
+            <p>A Treatise of <hi>Oathes:</hi> Wherein are several weighty Reasons why the People called <hi>Quakers</hi> refuse to Swear at all.</p>
+            <pb facs="tcp:56241:19"/>
+         </div>
+      </back>
+   </text>
+</TEI>
